@@ -64,6 +64,7 @@ cards.forEach(card => {
         card.style.transition = 'none'; 
     });
 });
+
 // --- 4. MOBILE HAMBURGER MENU ---
 const menuToggle = document.querySelector('#mobile-menu');
 const navLinksContainer = document.querySelector('.nav-links');
