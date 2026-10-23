@@ -18,12 +18,12 @@
 } */
 
 body {
-    background-color: var(--bg-dark);
+    /* background-color: var(--bg-dark);
     color: var(--text-main);
     font-family: var(--font-sans);
     line-height: 1.6;
     overflow-x: hidden;
-}
+} */
 
 /* --- NAVIGATION (GLASSMORPHISM) --- */
 .glass-nav {
