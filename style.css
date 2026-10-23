@@ -1,9 +1,9 @@
 /* --- GLOBAL VARIABLES --- */
 :root {
     --bg-dark: #0B1120;
-    --bg-card: #1E293B;
+    /* --bg-card: #1E293B;
     --text-main: #F8FAFC;
-    --text-muted: #94A3B8;
+    --text-muted: #94A3B8; */
     --cyan: #22D3EE;
     --purple: #A855F7;
     --font-sans: 'Inter', sans-serif;
