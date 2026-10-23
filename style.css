@@ -46,11 +46,11 @@ body {
     padding: 0 , 20px;
 }
 
-.logo {
+/* .logo {
     font-family: var(--font-mono);
     color: var(--cyan);
     font-size: 1.5rem;
-}
+} */
 
 .nav-links {
     list-style: none;
