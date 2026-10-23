@@ -125,11 +125,11 @@ h1 {
 }
 
 /* --- HERO BUTTONS (CLEANED UP & FIXED) --- */
-.hero-actions {
+/* .hero-actions {
     display: flex;
     gap: 20px;
     justify-content: center;
-}
+} */
 
 /* .btn {
     padding: 14px 32px;
