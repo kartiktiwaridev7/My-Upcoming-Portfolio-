@@ -77,9 +77,9 @@ body {
     color: var(--cyan) !important;
 }
 
-.nav-btn:hover {
+/* .nav-btn:hover {
     background: rgba(34, 211, 238, 0.1);
-}
+} */
 
 /* --- HERO SECTION --- */
 .hero {
