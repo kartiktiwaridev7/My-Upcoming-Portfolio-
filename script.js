@@ -34,8 +34,8 @@ const observerOptions = {
 //     });
 }, observerOptions);
 
-const hiddenElements = document.querySelectorAll('.fade-in');
-hiddenElements.forEach((el) => observer.observe(el));
+// const hiddenElements = document.querySelectorAll('.fade-in');
+// hiddenElements.forEach((el) => observer.observe(el));
 
 // --- 3. 3D PROJECT CARD TILT EFFECT ---
 const cards = document.querySelectorAll('.project-card');
