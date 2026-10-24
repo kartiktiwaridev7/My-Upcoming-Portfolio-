@@ -1,20 +1,20 @@
 // --- 1. TYPING EFFECT FOR HERO SECTION ---
 const typeTarget = document.getElementById('typewriter-text');
 
-if (typeTarget) {
-    const textToType = "A BCA student bridging the gap between elegant Frontend Development and powerful Data-Driven Applications.";
-    let i = 0;
+// if (typeTarget) {
+//     const textToType = "A BCA student bridging the gap between elegant Frontend Development and powerful Data-Driven Applications.";
+//     let i = 0;
     
-    function typeWriter() {
-        if (i < textToType.length) {
-            typeTarget.innerHTML += textToType.charAt(i);
-            i++;
-            setTimeout(typeWriter, 35); // Typing speed
-        } else {
-            // Optional: Add a blinking cursor at the end
-           typeTarget.innerHTML += '<span style="animation: blink 1s infinite;">|</span>';
-        }
-    }
+//     function typeWriter() {
+//         if (i < textToType.length) {
+//             typeTarget.innerHTML += textToType.charAt(i);
+//             i++;
+//             setTimeout(typeWriter, 35); // Typing speed
+//         } else {
+//             // Optional: Add a blinking cursor at the end
+//            typeTarget.innerHTML += '<span style="animation: blink 1s infinite;">|</span>';
+//         }
+//     }
     
     setTimeout(typeWriter, 800); // Wait a moment before starting
 }
