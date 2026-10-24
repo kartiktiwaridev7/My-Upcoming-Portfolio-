@@ -66,9 +66,9 @@ const cards = document.querySelectorAll('.project-card');
 });
 
 // --- 4. MOBILE HAMBURGER MENU ---
-const menuToggle = document.querySelector('#mobile-menu');
-const navLinksContainer = document.querySelector('.nav-links');
-const mobileLinks = document.querySelectorAll('.nav-links li a');
+// const menuToggle = document.querySelector('#mobile-menu');
+// const navLinksContainer = document.querySelector('.nav-links');
+// const mobileLinks = document.querySelectorAll('.nav-links li a');
 
 // Toggle the menu open and closed
 menuToggle.addEventListener('click', () => {
