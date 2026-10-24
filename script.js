@@ -40,11 +40,11 @@ const typeTarget = document.getElementById('typewriter-text');
 // --- 3. 3D PROJECT CARD TILT EFFECT ---
 const cards = document.querySelectorAll('.project-card');
 
-cards.forEach(card => {
-    card.addEventListener('mousemove', (e) => {
-        const rect = card.getBoundingClientRect();
-        const x = e.clientX - rect.left; 
-        const y = e.clientY - rect.top;  
+// cards.forEach(card => {
+//     card.addEventListener('mousemove', (e) => {
+//         const rect = card.getBoundingClientRect();
+//         const x = e.clientX - rect.left; 
+//         const y = e.clientY - rect.top;  
         
         // const centerX = rect.width / 2;
         // const centerY = rect.height / 2;
