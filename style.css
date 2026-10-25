@@ -530,11 +530,11 @@ h1 {
 }
 
 /* --- RESPONSIVE ADJUSTMENTS --- */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     .about-grid {
         grid-template-columns: 1fr;
         gap: 40px;
-    }
+    } */
     
     h1 {
         font-size: 3rem;
