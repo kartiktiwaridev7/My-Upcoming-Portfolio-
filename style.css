@@ -248,11 +248,11 @@ h1 {
     margin-left: 10px;
 }
 
-.project-card h3 {
+/* .project-card h3 {
     font-size: 1.4rem;
     margin-bottom: 15px;
     color: var(--text-main);
-}
+} */
 
 .project-card p {
     color: var(--text-muted);
