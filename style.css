@@ -144,12 +144,12 @@ h1 {
 } */ */
 
 /* Primary Button with Gradient Glow */
-.btn-primary {
+/* .btn-primary {
     background: linear-gradient(135deg, var(--cyan), var(--purple));
     color: #fff;
     box-shadow: 0 4px 15px rgba(34, 211, 238, 0.3);
     border: none;
-}
+} */
 
 .btn-primary:hover {
     transform: translateY(-3px);
