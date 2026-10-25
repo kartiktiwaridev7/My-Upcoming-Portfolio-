@@ -52,12 +52,12 @@ body {
     font-size: 1.5rem;
 } */
 
-.nav-links {
+/* .nav-links {
     list-style: none;
     display: flex;
     gap: 30px;
     align-items: center;
-}
+} */
 
 .nav-links a {
     text-decoration: none;
