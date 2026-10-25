@@ -382,7 +382,7 @@ h1 {
     margin-bottom: 40px;
 }
 
-.timeline-dot {
+/* .timeline-dot {
     position: absolute;
     left: 14px;
     top: 0;
@@ -392,7 +392,7 @@ h1 {
     background: var(--bg-dark);
     border: 2px solid var(--cyan);
     box-shadow: 0 0 10px var(--cyan);
-}
+} */
 
 .date-badge {
     display: inline-block;
