@@ -77,9 +77,9 @@ menuToggle.addEventListener('click', () => {
 });
 
 // Close the menu automatically when a link is clicked
-mobileLinks.forEach(link => {
-    link.addEventListener('click', () => {
-        menuToggle.classList.remove('is-active');
-        navLinksContainer.classList.remove('active');
-    });
-});
+// mobileLinks.forEach(link => {
+//     link.addEventListener('click', () => {
+//         menuToggle.classList.remove('is-active');
+//         navLinksContainer.classList.remove('active');
+//     });
+// });
