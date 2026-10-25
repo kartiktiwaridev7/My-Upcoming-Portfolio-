@@ -347,11 +347,11 @@ h1 {
     cursor: default;
 }
 
-.glass-tag:hover {
+/* .glass-tag:hover {
     background: rgba(34, 211, 238, 0.2);
     transform: translateY(-2px);
     box-shadow: 0 5px 15px rgba(34, 211, 238, 0.15);
-}
+} */
 
 /* --- TIMELINE SECTION --- */
 /* .timeline-section {
