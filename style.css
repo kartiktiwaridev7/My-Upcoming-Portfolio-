@@ -111,11 +111,11 @@ h1 {
     margin-bottom: 20px;
 }
 
-.gradient-text {
+/* .gradient-text {
     background: linear-gradient(to right, var(--cyan), var(--purple));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-}
+} */
 
 .hero-subtitle {
     font-size: 1.2rem;
