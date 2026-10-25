@@ -324,10 +324,10 @@ h1 {
     margin-bottom: 15px;
 }
 
-.group-header h4 {
+/* .group-header h4 {
     color: var(--text-main);
     font-size: 1.2rem;
-}
+} */
 
 .skill-tags {
     display: flex;
