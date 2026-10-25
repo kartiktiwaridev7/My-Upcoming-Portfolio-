@@ -329,11 +329,11 @@ h1 {
     font-size: 1.2rem;
 } */
 
-.skill-tags {
+/* .skill-tags {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
-}
+} */
 
 .glass-tag {
     background: rgba(34, 211, 238, 0.1);
