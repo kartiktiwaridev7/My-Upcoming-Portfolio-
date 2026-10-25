@@ -226,9 +226,9 @@ h1 {
     transform-style: preserve-3d; /* For JS 3D tilt */
 }
 
-.project-card:hover {
+/* .project-card:hover {
     border-color: rgba(34, 211, 238, 0.3);
-}
+} */
 
 /* .project-header {
     display: flex;
