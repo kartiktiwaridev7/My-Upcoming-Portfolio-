@@ -230,12 +230,12 @@ h1 {
     border-color: rgba(34, 211, 238, 0.3);
 }
 
-.project-header {
+/* .project-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 25px;
-}
+} */
 
 .folder-icon {
     font-size: 2rem;
