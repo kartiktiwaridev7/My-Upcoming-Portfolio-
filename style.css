@@ -394,13 +394,13 @@ h1 {
     box-shadow: 0 0 10px var(--cyan);
 } */
 
-.date-badge {
+/* .date-badge {
     display: inline-block;
     font-family: var(--font-mono);
     color: var(--purple);
     font-size: 0.85rem;
     margin-bottom: 10px;
-}
+} */
 
 .issuer {
     color: var(--cyan);
