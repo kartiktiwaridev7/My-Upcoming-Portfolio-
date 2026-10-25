@@ -279,10 +279,10 @@ h1 {
     transition: opacity 0.8s ease-out, transform 0.8s ease-out;
 }
 
-.fade-in.show {
+/* .fade-in.show {
     opacity: 1;
     transform: translateY(0);
-}
+} */
 
 /* --- ABOUT & SKILLS SECTION --- */
 .about-section {
