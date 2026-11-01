@@ -164,11 +164,11 @@ h1 {
     background: transparent;
 }
 
-.btn-secondary:hover {
+/* .btn-secondary:hover {
     background: rgba(34, 211, 238, 0.1);
     transform: translateY(-3px);
     box-shadow: 0 4px 15px rgba(34, 211, 238, 0.2);
-}
+} */
 
 /* Background Glow Effects */
 .glow-orb {
