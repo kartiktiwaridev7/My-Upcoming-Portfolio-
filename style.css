@@ -308,14 +308,14 @@ h1 {
     margin-bottom: 30px;
     color: var(--text-main);
 }
-
+/* 
 .skill-group {
     background: rgba(30, 41, 59, 0.5);
     border: 1px solid rgba(255, 255, 255, 0.05);
     padding: 25px;
     border-radius: 12px;
     margin-bottom: 20px;
-}
+} */
 
 .group-header {
     display: flex;
