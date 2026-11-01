@@ -260,13 +260,13 @@ h1 {
     margin-bottom: 25px;
 }
 
-.text-link {
+/* .text-link {
     color: var(--text-main);
     text-decoration: none;
     font-weight: 600;
     font-size: 0.9rem;
     transition: color 0.3s;
-}
+} */
 
 .text-link:hover {
     color: var(--cyan);
