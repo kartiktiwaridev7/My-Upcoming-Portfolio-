@@ -15,7 +15,7 @@
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
-}
+} */
 
 body {
     /* background-color: var(--bg-dark);
@@ -25,7 +25,7 @@ body {
     overflow-x: hidden;
 } */
 
-/* --- NAVIGATION (GLASSMORPHISM) --- */
+/* --- NAVIGATION (GLASSMORPHISM) ---
 .glass-nav {
     /* position: fixed;
     top: 0;
