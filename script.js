@@ -65,12 +65,12 @@ cards.forEach(card => {
     });
 });
 
-// --- 4. MOBILE HAMBURGER MENU ---
-// const menuToggle = document.querySelector('#mobile-menu');
-// const navLinksContainer = document.querySelector('.nav-links');
-// const mobileLinks = document.querySelectorAll('.nav-links li a');
+--- 4. MOBILE HAMBURGER MENU ---
+const menuToggle = document.querySelector('#mobile-menu');
+const navLinksContainer = document.querySelector('.nav-links');
+const mobileLinks = document.querySelectorAll('.nav-links li a');
 
-// Toggle the menu open and closed
+Toggle the menu open and closed
 menuToggle.addEventListener('click', () => {
     menuToggle.classList.toggle('is-active');
     navLinksContainer.classList.toggle('active');
