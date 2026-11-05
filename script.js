@@ -55,10 +55,10 @@ cards.forEach(card => {
         card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) translateY(-5px)`;
     });
     
-    // card.addEventListener('mouseleave', () => {
-    //     card.style.transform = 'perspective(1000px) rotateX(0) rotateY(0) translateY(0)';
-    //     card.style.transition = 'transform 0.5s ease'; 
-    // });
+    card.addEventListener('mouseleave', () => {
+        card.style.transform = 'perspective(1000px) rotateX(0) rotateY(0) translateY(0)';
+        card.style.transition = 'transform 0.5s ease'; 
+    });
     
     card.addEventListener('mouseenter', () => {
         card.style.transition = 'none'; 
