@@ -442,13 +442,13 @@ h1 {
     z-index: 10;
 }
 
-/* .footer-subtitle {
+.footer-subtitle {
     color: var(--text-muted);
     font-size: 1.1rem;
     margin-bottom: 40px;
     position: relative;
     z-index: 10;
-} */
+}
 
 /* --- THE NEON BUTTON --- */
 .btn-neon {
