@@ -1,5 +1,5 @@
 /* --- GLOBAL VARIABLES --- */
-:root {
+/* :root {
     --bg-dark: #0B1120;
     --bg-card: #1E293B;
     --text-main: #F8FAFC;
@@ -8,7 +8,7 @@
     --purple: #A855F7;
     --font-sans: 'Inter', sans-serif;
     --font-mono: 'Fira Code', monospace;
-}
+} */
 
  {
     margin: 0;
@@ -619,3 +619,4 @@ h1 {
     0%, 100% { opacity: 1; }
     50% { opacity: 0; }
 }
+
